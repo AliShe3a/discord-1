@@ -1,0 +1,5 @@
+name: Discord
+description: Minecraft - Discord API
+main: ch.atdit.discord.Discord
+author: Atdit
+version: 1.0
